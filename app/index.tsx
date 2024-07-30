@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>KAROL VALENTINA SIERRA DIAZ</Text>
+      <Text>DANIEL FERNANDO RAMÍREZ LASSO</Text>
     </View>
   );
 }
