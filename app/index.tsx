@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>DANIEL FERNANDO RAMÍREZ LASSO :3</Text>
+      <Text>DANIEL FERNANDO RAMÍREZ LASSO :3 :3 </Text>
     </View>
   );
 }
